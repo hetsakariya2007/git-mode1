@@ -1,2 +1,6 @@
 Hello Git and Github.
+<<<<<<< HEAD
 This is my second update.
+=======
+This is an update from github.
+>>>>>>> 4a91724c1bfee9c2c78328872cede8cfc4679e04
